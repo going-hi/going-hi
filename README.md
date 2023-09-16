@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning Nest.js
 - 📫 How to reach me: <a href = 'https://t.me/going_hi'>Telegram</a>
-- ⚡ 16 y.o. I am interested in programming and about PC
+- ⚡ 17 y.o. I am interested in programming and about PC
 
 ---
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=going-hi&count_private=true&theme=tokyonight&showicons=true)]()
