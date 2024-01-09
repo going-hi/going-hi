@@ -6,7 +6,7 @@
 
 ### :woman_technologist: About Me :
 
-- 🌱 I’m currently learning Nest.js
+- 🌱 I’m currently learning Backend
 - 📫 How to reach me: <a href = 'https://t.me/going_hi'>Telegram</a>
 - ⚡ 17 y.o. I am interested in programming and about PC
 
