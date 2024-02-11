@@ -36,4 +36,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
   <img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" title="NodeJS" alt="Nestjs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" title="MongoDB" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <img src="https://profilinator.rishav.dev/skills-assets/prisma.png" title="MongoDB" alt="Prisma" width="40" height="40"/>&nbsp;
 </div>
