@@ -14,7 +14,13 @@
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=going-hi&count_private=true&theme=tokyonight&showicons=true)]()
 <br>
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=going-hi&langs_count=5&theme=tokyonight)]()
-
+## Github Stats  
+<div align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=going-hi&theme=transparent" />
+</div> 
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=going-hi&theme=transparent&hide_border=true&currStreakNum=FF8C00&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00" alt="zoomish" />
+</div> 
 <!-- 
 <p align="center">
   <span>🌱 I’m currently learning Nest.js</span>
