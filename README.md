@@ -10,17 +10,26 @@
 - 📫 How to reach me: <a href = 'https://t.me/going_hi'>Telegram</a>
 - ⚡ 17 y.o. I am interested in programming and about PC
 
----
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=going-hi&count_private=true&theme=tokyonight&showicons=true)]()
-<br>
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=going-hi&langs_count=5&theme=tokyonight)]()
 ## Github Stats  
 <div align="center">
+  
+   [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=going-hi&count_private=true&theme=tokyonight&showicons=true)]()
+   
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=going-hi&theme=transparent" />
 </div> 
 <div align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=going-hi&theme=transparent&hide_border=true&currStreakNum=FF8C00&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00" alt="zoomish" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=going-hi&theme=transparent&hide_border=true&currStreakNum=FF8C00&fire=FF8C00&ring=FF8C00&currStreakLabel=FF8C00" alt="going-hi" />
 </div> 
+
+<div align="center">
+  
+  [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=going-hi&langs_count=5&theme=tokyonight)]()
+
+</div> 
+
+
+
+
 <!-- 
 <p align="center">
   <span>🌱 I’m currently learning Nest.js</span>
