@@ -8,6 +8,8 @@
 
 - 🌱 I’m currently learning Backend
 - ⚡ I am interested in programming and about PC
+- 👋 My Contact tg: @rab0tay ,
+- 🔭 I’m currently working in <a href="https://github.com/NovaDevelopersCo">Nova Developers Co</a>
 
 ## Github Stats  
 <div align="center">
